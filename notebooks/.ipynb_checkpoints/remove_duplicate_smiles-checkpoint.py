@@ -3,7 +3,7 @@ import os
 from rdkit import Chem
 
 # Replace 'dataset1.csv', 'dataset2.csv', etc., with your actual dataset filenames
-datasets = ['extracted_data.csv', 'extracted_data2.csv']
+datasets = ['output.csv', 'output2.csv']
 
 # Load and process each dataset
 dfs = []
